@@ -1,0 +1,7 @@
+C:\Users\Dzmitriy_Kakhanouski\source\repos\Task3MSMQ\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\Dzmitriy_Kakhanouski\source\repos\Task3MSMQ\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\Dzmitriy_Kakhanouski\source\repos\Task3MSMQ\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\Dzmitriy_Kakhanouski\source\repos\Task3MSMQ\ServerApp\obj\Debug\ServerApp.csprojAssemblyReference.cache
+C:\Users\Dzmitriy_Kakhanouski\source\repos\Task3MSMQ\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\Dzmitriy_Kakhanouski\source\repos\Task3MSMQ\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\Dzmitriy_Kakhanouski\source\repos\Task3MSMQ\ServerApp\obj\Debug\ServerApp.pdb
